@@ -1,1 +1,1 @@
-# DemoApplications
+Demo Application of returning a hello-world response on successfull get request. Deployed Django application on to Docker container. Docker file to pull the Ubuntu Image and docker-compose to build and up the services. Used postgresql as DB.
